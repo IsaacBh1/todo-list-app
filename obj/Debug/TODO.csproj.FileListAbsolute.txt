@@ -1,0 +1,14 @@
+C:\Users\isaac\source\repos\TODO\bin\Debug\TODO.exe.config
+C:\Users\isaac\source\repos\TODO\bin\Debug\TODO.exe
+C:\Users\isaac\source\repos\TODO\bin\Debug\TODO.pdb
+C:\Users\isaac\source\repos\TODO\bin\Debug\Guna.UI2.dll
+C:\Users\isaac\source\repos\TODO\obj\Debug\TODO.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\TODO\obj\Debug\TODO.Properties.Resources.resources
+C:\Users\isaac\source\repos\TODO\obj\Debug\TODO.csproj.GenerateResource.cache
+C:\Users\isaac\source\repos\TODO\obj\Debug\TODO.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\TODO\obj\Debug\TODO.csproj.Up2Date
+C:\Users\isaac\source\repos\TODO\obj\Debug\TODO.exe
+C:\Users\isaac\source\repos\TODO\obj\Debug\TODO.pdb
+C:\Users\isaac\source\repos\TODO\obj\Debug\TODO.Todo.resources
+C:\Users\isaac\source\repos\TODO\obj\Debug\TODO.Task.resources
+C:\Users\isaac\source\repos\TODO\obj\Debug\TODO.AddTaskForm.resources
