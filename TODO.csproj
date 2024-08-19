@@ -52,32 +52,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddNewTaskEventArgs.cs" />
-    <Compile Include="AddTaskForm.cs">
+    <Compile Include="Classes\AddNewTaskEventArgs.cs" />
+    <Compile Include="Forms\AddTaskForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AddTaskForm.Designer.cs">
+    <Compile Include="Forms\AddTaskForm.Designer.cs">
       <DependentUpon>AddTaskForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="RemoveTaskEventArgs.cs" />
-    <Compile Include="ToDo.cs">
+    <Compile Include="Classes\RemoveTaskEventArgs.cs" />
+    <Compile Include="Forms\ToDo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ToDo.Designer.cs">
+    <Compile Include="Forms\ToDo.Designer.cs">
       <DependentUpon>ToDo.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Task.cs">
+    <Compile Include="UserControls\Task.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Task.Designer.cs">
+    <Compile Include="UserControls\Task.Designer.cs">
       <DependentUpon>Task.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="AddTaskForm.resx">
+    <EmbeddedResource Include="Forms\AddTaskForm.resx">
       <DependentUpon>AddTaskForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ToDo.resx">
+    <EmbeddedResource Include="Forms\ToDo.resx">
       <DependentUpon>ToDo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -90,7 +90,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Task.resx">
+    <EmbeddedResource Include="UserControls\Task.resx">
       <DependentUpon>Task.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
