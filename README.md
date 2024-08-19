@@ -13,7 +13,7 @@ This project is a To-Do List application developed in C#. The application allows
 
 ### Main To-Do List Interface
 
-![To-Do List Interface](./Images/AddNewTaskInterface.png)
+![To-Do List Interface](./Images/MainInterface.png)
 
 *Description*: The main interface shows the list of tasks, with options to mark them as completed or delete them. Tasks are color-coded based on priority.
 
