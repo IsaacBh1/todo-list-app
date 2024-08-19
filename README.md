@@ -33,3 +33,5 @@ This project is a To-Do List application developed in C#. The application allows
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/todo-list-app.git
+   cd todo-list-app
+   dotnet run
